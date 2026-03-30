@@ -1,0 +1,7 @@
+name 	 birthday	 id	 grade
+malak
+	 11\1\2004	20033	100
+louka
+	 11\1\2004	12345	90
+malika
+	 11\1\2004	12345	80
